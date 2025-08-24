@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "Skilldrive",
+    "slug": "skilldrive",
+    "version": "1.0.0",
+    "scheme": "skilldrive",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.skilldrive.app"
+    }
+  }
+}

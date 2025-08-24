@@ -1,0 +1,1 @@
+Repo prêt : poussez ce dossier à la racine d'un nouveau dépôt GitHub, puis Actions → Android APK → Run workflow.
